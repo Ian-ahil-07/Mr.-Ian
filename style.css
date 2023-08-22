@@ -712,33 +712,7 @@ footer {
     
   }
  
-  
-  /*
-  nav ul {
-    display: none;
-  }
-  
- 
-  nav ul.show {
-    display: flex;
-    flex-direction: column;
-    
-    height: 60vh;
-    width: 100%;
-    
-    
-    
-  }
-  
 
-  nav ul li {
-    display: block;
-    margin: 10px 0;
-    text-align: center;
-  }
-  */
-  
-}
 /*--------------Media Query------------------*/
 @media (max-width: 768px) {
   #Home{
